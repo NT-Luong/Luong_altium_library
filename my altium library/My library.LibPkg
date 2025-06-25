@@ -92,6 +92,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YTVCULYL
 
 [Document4]
+DocumentPath=..\..\..\Library_Luong\my altium library\Boots.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJWWGRCJ
+
+[Document5]
 DocumentPath=DHT11.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -108,7 +125,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXLPDVJE
 
-[Document5]
+[Document6]
+DocumentPath=..\..\..\Library_Luong\my altium library\Boots.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EDSFFEIE
+
+[Document7]
 DocumentPath=MQ7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FKFWNMEA
 
-[Document6]
+[Document8]
 DocumentPath=MQ7.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFNIJIUT
 
-[Document7]
+[Document9]
 DocumentPath=B0505S.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFVFSETD
 
-[Document8]
+[Document10]
 DocumentPath=B0505S.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XRVFCFFH
 
-[Document9]
+[Document11]
 DocumentPath=LCD16x2I2C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UWPZNDEN
 
-[Document10]
+[Document12]
 DocumentPath=LCD16x2I2C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
